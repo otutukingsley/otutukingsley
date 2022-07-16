@@ -1,4 +1,4 @@
-## Hi there 👋
+![Otutu's GitHub Banner](./images/linkedin-banner.png)
 
 I’m Otutu , I design, build, and implement user interface for websites, software programs, and web-based applications.
 
