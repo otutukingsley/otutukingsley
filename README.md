@@ -1,4 +1,4 @@
-![Otutu's GitHub Banner](./images/linkedin-banner.png)
+![Otutu's GitHub Banner](./image-banner.png)
 
 I’m Otutu , I design, build, and implement user interface for websites, software programs, and web-based applications.
 
