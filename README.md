@@ -27,8 +27,8 @@ I’m Otutu , I design, build, and implement user interface for websites, softwa
 <br>
 <p align="left">
   <a href="https://git.io/streak-stats">
-  <img width="49.5%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otutu&layout=compact&title_color=5BCDEC&text_color=FFFEFE&hide=HTML&icon_color=4AB197&bg_color=0D1117" />
-  <img width="49.5%" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=otutu&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=5BCDEC&sideNums=FFFEFE" />
+  <img width="49.5%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otutukingsley&layout=compact&title_color=5BCDEC&text_color=FFFEFE&hide=HTML&icon_color=4AB197&bg_color=0D1117" />
+  <img width="49.5%" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=otutukingsley&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=5BCDEC&sideNums=FFFEFE" />
   </a>
 </p>
 <br>
